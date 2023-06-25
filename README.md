@@ -8,8 +8,11 @@
 <br></br>
 ## Descrição do projeto:
 Aqui ficara a descrição do meu projeto.
+</br></br>
 
-Gift ou Video:
+Video:
+
+https://github.com/alexandre-souza10/spotifyclone.github.io/assets/74196527/e629d290-7f59-4a56-8ab1-7eb921371bcf
 
 <br></br>
 ## Liguagens e ferramentas utilizadas:
