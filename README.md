@@ -7,7 +7,13 @@
 
 <br></br>
 ## Descrição do projeto:
-Aqui ficara a descrição do meu projeto.
+- Nesse projeto foi desenvolvido um clone do Spotify , uma pagina de musica, Projeto Front-End , utilizando HTML. CSS , Java Script e imagens para fazer o Front-End da pagina.
+E um projeto Front-End simples , mas bem funcional , cumprindo com o proposito destinado , e ainda conseguindo reproduzir musicas o tornando uma parte estatica , e uma parte mais dinamica.
+
+- O Projeto tem a funcionalidade de mostrar uma interface de usuário estatica, que permiti reproduzir musica de acordo com artista escolhido, e que estiver na pagina, dinamicamente ira tocar a musica no reprodutor de musica.
+Temos um sidebar estatico, onde mostramos as Playlists , um inicio , busca e biblioteca estaticos, o Tornando estatico , mas ao mesmo tempo funcional e dinamico na parte em reproduzir musica.
+
+- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina do Spotify-Clone.
 </br></br>
 
 Video:
