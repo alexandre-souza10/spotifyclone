@@ -1,19 +1,20 @@
-<h1 align="center"> Clone Spotify - Front-End</h1>
+<h1 align="center"> Spotify Clone - Front-End</h1>
 
-#### Pagina Inicial do Projeto:
+### Project Home Page:
 ![Screenshot_1](https://github.com/alexandre-souza10/spotifyclone.github.io/assets/74196527/02307ae2-8c2d-4a0b-98e4-6b04e41b140c)
 
-### Link de acesso ao Projeto: https://alexandre-souza10.github.io/spotifyclone.github.io/
+### Project access link: https://alexandre-souza10.github.io/spotifyclone.github.io/
 
 <br></br>
-## Descrição do projeto:
-- Nesse projeto foi desenvolvido um clone do Spotify , uma pagina de musica, Projeto Front-End , utilizando HTML. CSS , Java Script e imagens para fazer o Front-End da pagina.
-E um projeto Front-End simples , mas bem funcional , cumprindo com o proposito destinado , e ainda conseguindo reproduzir musicas o tornando uma parte estatica , e uma parte mais dinamica.
 
-- O Projeto tem a funcionalidade de mostrar uma interface de usuário estatica, que permiti reproduzir musica de acordo com artista escolhido, e que estiver na pagina, dinamicamente ira tocar a musica no reprodutor de musica.
-Temos um sidebar estatico, onde mostramos as Playlists , um inicio , busca e biblioteca estaticos, o Tornando estatico , mas ao mesmo tempo funcional e dinamico na parte em reproduzir musica.
+## Project description:
+- In this project, a clone of Spotify was developed, a music page, Project Front-End, using HTML. CSS, Java Script and images to make the Front-End of the page.
+It is a simple Front-End project, but very functional, fulfilling its intended purpose, and still managing to play music making it a static part, and a more dynamic part.
 
-- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina do Spotify-Clone.
+- The Project has the functionality of showing a static user interface, which allows you to play music according to the chosen artist, and whoever is on the page will dynamically play the music in the music player.
+We have a static sidebar, where we show the Playlists, a static start, search and library, the Tornando static, but at the same time functional and dynamic in the part of playing music.
+
+- Below we have a small instructional video, where we show an example of how the Spotify-Clone page works.
 </br></br>
 
 Video:
@@ -21,12 +22,13 @@ Video:
 https://github.com/alexandre-souza10/spotifyclone.github.io/assets/74196527/e629d290-7f59-4a56-8ab1-7eb921371bcf
 
 <br></br>
-## Liguagens e ferramentas utilizadas:
+
+## Languages ​​and tools used:
 - HTML
 - CSS
 - Java Script
 - Visual Studio Code
 
 <br></br>
-#### Autor: 
+#### Author: 
 **Alexandre Souza**
