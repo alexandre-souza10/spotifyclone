@@ -7,7 +7,7 @@
 
 <br></br>
 
-## Project description:
+## Project Description:
 - In this project, a clone of Spotify was developed, a music page, Project Front-End, using HTML. CSS, Java Script and images to make the Front-End of the page.
 It is a simple Front-End project, but very functional, fulfilling its intended purpose, and still managing to play music making it a static part, and a more dynamic part.
 
@@ -15,6 +15,7 @@ It is a simple Front-End project, but very functional, fulfilling its intended p
 We have a static sidebar, where we show the Playlists, a static start, search and library, the Tornando static, but at the same time functional and dynamic in the part of playing music.
 
 - Below we have a small instructional video, where we show an example of how the Spotify-Clone page works.
+
 </br></br>
 
 Video:
@@ -23,12 +24,13 @@ https://github.com/alexandre-souza10/spotifyclone.github.io/assets/74196527/e629
 
 <br></br>
 
-## Languages ​​and tools used:
+## Languages ​​and Tools used:
 - HTML
 - CSS
 - Java Script
 - Visual Studio Code
 
 <br></br>
+
 #### Author: 
 **Alexandre Souza**
