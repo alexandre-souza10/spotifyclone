@@ -3,7 +3,7 @@
 ### Project Home Page:
 ![Screenshot_1](https://github.com/alexandre-souza10/spotifyclone.github.io/assets/74196527/02307ae2-8c2d-4a0b-98e4-6b04e41b140c)
 
-### Project access link: https://alexandre-souza10.github.io/spotifyclone.github.io/
+### Project access link: https://alexandre-souza10.github.io/spotifyclone/
 
 <br></br>
 
