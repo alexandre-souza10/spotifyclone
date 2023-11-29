@@ -28,6 +28,7 @@ https://github.com/alexandre-souza10/spotifyclone.github.io/assets/74196527/e629
 - HTML
 - CSS
 - Java Script
+- React.js
 - Visual Studio Code
 
 <br></br>
